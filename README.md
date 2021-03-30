@@ -1,0 +1,2 @@
+# WaifuStore
+ Buy your waifus!
